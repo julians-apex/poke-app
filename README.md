@@ -43,3 +43,8 @@ You are creating a simple Pokemon App that allows you to search for any pokemon 
 - State management is important.
 - Styling doesn’t need to match example image but try to make it reasonably nice looking.
 - Write unit tests if you have time. 
+
+## Running App
+
+`yarn install`
+`yarn dev`
