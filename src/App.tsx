@@ -16,7 +16,7 @@ function App() {
   return (
     <Center h='100vh'>
       <Box w='full' maxWidth='600px'>
-        <Stack direction='row' spacing={0}>
+        <Stack flexDir='row' spacing={0}>
           <Stack
             borderWidth={6}
             rounded='xl'
